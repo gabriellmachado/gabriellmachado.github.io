@@ -20,4 +20,7 @@ layout: post
 <br>
 <br>
 <center><img src="/uploads/git2.png"></center>
+<br>
+<p>Para adicionar o Jekyll iremos em <b><i>import code</b></i>.
+
 
