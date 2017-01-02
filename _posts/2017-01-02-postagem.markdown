@@ -10,7 +10,7 @@ layout: post
 <br>
 <p>Para criamos uma hospadagem no github pages precisamos criar um novo repositorio com o seu nome de usuario "<b><i>so podemos por o nome de usuario, se colocar algum outro nome a hospedagem não ira funcionar</i></b>
 
-<div id="foto" style="margin-left:3%;><img src="/uploads/git.png"></div>
+<center><img src="/uploads/git.png"></center>
 
 <b>#Etapa 2:</b> Implementando jekyll !
 
