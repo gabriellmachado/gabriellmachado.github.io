@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: GAM
+name: 
 description: Aprendizado sem firulas
 meta_description: Aprendizado sem firulas
 markdown: kramdown
