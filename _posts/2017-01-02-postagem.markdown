@@ -6,7 +6,7 @@ layout: post
 
 <h4> Criando site estatico com Jekyll, e hospedando no Github pages</h4>
 <br>
-<cener>
+<center>
 <b>#Etapa 1:</b> Criando a hospedagem no github!
 <br>
 <p>Para criamos uma hospadagem no github pages precisamos criar um novo repositorio com o seu nome de usuario "<b><i>so podemos por o nome de usuario, se colocar algum outro nome a hospedagem não ira funcionar"</i></b>
