@@ -19,15 +19,17 @@ date: 2017-01-02 19:42:00 Z
 <b><center>Estilizando o menu</center></b>
 <center><img src="/uploads/menu4.png"></center>
 
-#####code usado######
-
+<center>#####code usado######</center>
+<p>
 ul{
   background-color: rgba(22, 160, 133,1.0);
   width: 100%;
   height:50px;
   border-bottom:3px solid rgba(26, 188, 156,1.0);
   color: white;
-  
 }
-
-#####################
+</p>
+<center>#####################</center>
+<br>
+<p data-height="279" data-theme-id="dark" data-slug-hash="rjBXov" data-default-tab="result" data-user="CoderJavali" data-embed-version="2" data-pen-title="Menu" class="codepen">See the Pen <a href="http://codepen.io/CoderJavali/pen/rjBXov/">Menu</a> by Gabriel (<a href="http://codepen.io/CoderJavali">@CoderJavali</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
