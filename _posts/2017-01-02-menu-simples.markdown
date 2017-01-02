@@ -4,8 +4,12 @@ date: 2017-01-02 19:42:00 Z
 ---
 
 <h4><b><i>Poem o capacete que la vem pedrada</i></b></h4>
-<p><i>Iremos criar um meno com html e css simples</i></p>
-<br>
+<p><i>"Iremos criar um menu com html e css"</i></p>
 <p>Primeiro abriremos e fechamos a tag <b>ul</b> como mostra o exemplo:</p>
 <center><img src="/uploads/menu1.png"></center>
+<br>
+<p>em seguida adicionaremos nossos itens com a tag <b>li</b>, 
+<li>Home</li>
+<li>Novidades</li>
+<li>Sobre</li>
 
