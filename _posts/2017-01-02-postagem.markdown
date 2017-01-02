@@ -15,5 +15,5 @@ layout: post
 <br>
 <br>
 <b>#Etapa 2:</b> Implementando jekyll !
-<br>Logo a pos ter criado o repositorio, escolheremos um tema para o nosso projeto, bem como exemplo eu usario o tema " <a href="https://github.com/rosario/kasper">Kasper</a> "
+<br>Logo a pos ter criado o repositorio, escolheremos um tema para o nosso projeto, bem como exemplo eu usario o tema " <a href="https://github.com/rosario/kasper" style="color: black; border-bottom:1px solid black;>Kasper</a> "
 
