@@ -879,7 +879,7 @@ body:not(.post-template) .post-title {
    imperfections with browser width % calculations and rounding */
 .post-template .content {
     overflow: hidden;
-    height:100px;
+    
 }
 
 /* Tweak the .post wrapper style */
@@ -887,6 +887,8 @@ body:not(.post-template) .post-title {
     margin-top: 0;
     border-bottom: none;
     padding-bottom: 0;
+   height:100px;
+
 }
 
 /* Kill that stylish little circle that was on the border, too */
@@ -906,9 +908,10 @@ body:not(.post-template) .post-title {
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
 .post-content .full-img {
-    width: 126%;
+    width: 80%;
     max-width: none;
     margin: 0 -13%;
+   border: 2px solid #333;
 }
 
 /* The author credit area after the post */
