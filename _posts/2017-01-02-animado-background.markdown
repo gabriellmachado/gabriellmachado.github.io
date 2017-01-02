@@ -1,6 +1,7 @@
 ---
 title: Animado background
 date: 2017-01-02 21:37:00 Z
+layout: post
 ---
 
 <h4><b>Prepara o capacete que la vem mais pedrada</b></h4>
