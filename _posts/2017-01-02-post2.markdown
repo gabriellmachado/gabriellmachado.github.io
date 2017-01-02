@@ -1,6 +1,7 @@
 ---
 title: post2
 date: 2017-01-02 04:16:00 Z
+layout: post
 ---
 
 <h3> Detonando ate mesmo Wordpress </h3>
