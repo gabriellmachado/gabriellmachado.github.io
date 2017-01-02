@@ -463,6 +463,8 @@ margin on the iframe, cause it breaks stuff. */
     display: table-cell;
     vertical-align: middle;
      background: url('http://gam.hol.es/blog/wp-content/uploads/2016/12/cropped-15776291_1395785537120460_1122912084_o-1.png') center;
+    height:600px;
+    padding:5%;
 }
 
 
@@ -717,14 +719,22 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
-    position: relative;
-    width: 80%;
-    max-width: 710px;
-    margin: 4rem auto;
-    padding-bottom: 4rem;
-    border-bottom: #EBF2F6 1px solid;
-    word-break: break-word;
-    hyphens: auto;
+ position: relative;
+width: 80%;
+max-width: 710px;
+margin: 4rem auto;
+padding-bottom: 4rem;
+border-bottom: #EBF2F6 1px solid;
+word-break: break-word;
+hyphens: auto;
+border-left: 1em solid lightcoral;
+padding: 5%;
+   transition:1.5s;
+}
+
+.post:hover{
+   background-color: #eee;
+   transition:1s;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
