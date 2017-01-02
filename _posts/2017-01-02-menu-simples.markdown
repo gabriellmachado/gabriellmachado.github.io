@@ -10,5 +10,8 @@ date: 2017-01-02 19:42:00 Z
 <br>
 <p>em seguida adicionaremos nossos itens com a tag <b>li</b>, como mostra o exemplo.
 <center><img src="/uploads/menu2.png"></center>
+<br>
+<p><b>Aplicando csss</b></p>
+<p><b><i>Ha, mas tio stagg esta tudo com bolinhas e eu queria o menu alinhado verticalmente</i></b>
 
 
