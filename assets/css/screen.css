@@ -732,6 +732,7 @@ border-bottom: #EBF2F6 1px solid;
 word-break: break-word;
 hyphens: auto;
 overflow:hidden;
+padding:5%;
 
 }
 
@@ -887,7 +888,7 @@ body:not(.post-template) .post-title {
     margin-top: 0;
     border-bottom: none;
     padding-bottom: 0;
-   height:100px;
+
 
 }
 
@@ -908,10 +909,10 @@ body:not(.post-template) .post-title {
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
 .post-content .full-img {
-    width: 80%;
+    width: 100%;
     max-width: none;
     margin: 0 -13%;
-   border: 2px solid #333;
+   border: 1px solid #333;
 }
 
 /* The author credit area after the post */
@@ -1591,6 +1592,11 @@ body:not(.post-template) .post-title {
         font-size: 0.85em;
     }
 
+   .post-excerpt{
+      height:100px;
+   }
+   
+   
     .page-description {
         font-size: 1.6rem;
     }
