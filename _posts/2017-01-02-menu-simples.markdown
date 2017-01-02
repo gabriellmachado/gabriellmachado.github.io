@@ -5,7 +5,7 @@ layout: post
 ---
 
 <h4><b><i>Poem o capacete que la vem pedrada</i></b></h4>
-<p><i>"Iremos criar um menu com html e css"</i></p>
+<h4><p><i>"Iremos criar um menu com html e css"</i></p></h4>
 <p>Primeiro abriremos e fechamos a tag <b>ul</b> como mostra o exemplo:</p>
 <center><img src="/uploads/menu1.png"></center>
 <br>
