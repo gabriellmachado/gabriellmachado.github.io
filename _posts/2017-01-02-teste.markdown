@@ -1,10 +1,8 @@
 ---
-title: Teste
+title: Jekyll + Github pages + siteleaf <3
 date: 2017-01-02 02:46:00 Z
-layout: page
+layout: post
 ---
 
-> Agora a postagem vai meu parsa
-
-<b style="color:red;">Agora foi meu parsa</b>
-
+<h1> Detonando ate mesmo Wordpress </h1>
+<p>Criando um super site totalmente estatico com jekyll, e aprimorando com um cms </p>
