@@ -4,7 +4,7 @@ date: 2017-01-02 21:37:00 Z
 layout: post
 ---
 
-<h4><b>Prepara o capacete que la vem mais pedrada</b></h4>
+<h4><b>Prepara o capacete que la vem mais pedrada,</b></h4>
 <h4>Então vamos começar a animar</h4>
 <p>Copie o codigo a seguir no seu projeto:</p>
 
