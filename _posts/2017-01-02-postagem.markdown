@@ -19,5 +19,5 @@ layout: post
 <p><b><i>você pode procruar alguns neste site: http://jekyll.tips/templates/ </i></b></p>
 <br>
 <br>
-<img src="/uploads/git2.png">
+<center><img src="/uploads/git2.png"></center>
 
