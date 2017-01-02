@@ -1,5 +1,5 @@
 ---
-title: Animado background
+title: Animando background
 date: 2017-01-02 21:37:00 Z
 layout: post
 ---
@@ -7,6 +7,7 @@ layout: post
 <h4><b>Prepara o capacete que la vem mais pedrada</b></h4>
 <h4>Então vamos começar a animar</h4>
 
+<pre>
  body {
    background: linear-gradient(270deg, #ecd078, #d95b43, #c02942, #542437, #53777a);
    background-size: 1000% 1000%;
@@ -50,4 +51,4 @@ layout: post
      background-position: 0% 50%
    }
  }
-
+</pre>
