@@ -1,7 +1,7 @@
 ---
 title: Jekyll + Github pages + siteleaf <3
 date: 2017-01-02 02:46:00 Z
-layout: post
+layout: default
 ---
 
 <h1> Detonando ate mesmo Wordpress </h1>
