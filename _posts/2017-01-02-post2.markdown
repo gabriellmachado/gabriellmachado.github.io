@@ -1,0 +1,38 @@
+---
+title: post2
+date: 2017-01-02 04:16:00 Z
+---
+
+<h3> Detonando ate mesmo Wordpress </h3>
+<h4>Criando um super site totalmente estatico com jekyll, e aprimorando com um cms </h4>
+<br>
+<p>Primeiro iremos criar um repositorio no github para hospdar nosso site, lembrando " o github pages so possibilita a hospedagem de sites estaticos ( vulgo: Html, Css, javascript ).</p>
+<br>
+<img src="/uploads/git.png">
+lembrando que onde esta escrito "Nomedeusuario" e pra por o nome do seu usuario ( não precisava nem lembrar ne... )
+se por o nome do usuario diferen ele não aceitara.
+<br>
+<b>passo 2:</b> Escolhendo um tema!
+Podera escolher um tema que lhe agrade aqui:
+
+[](http://jekyll.tips/templates/)
+
+<br>
+bom eu usarei o " kasper " o mesmo tema usado atualmente no blog.
+<b>Instalando o tema: </b>
+para instalar o tema iremos em " import code "
+<img src="/uploads/git2.png">
+
+<b>Passo 3: </b>
+aplicando o tema usado neste exemplo " kasper "
+copie o link " https://github.com/rosario/kasper.git "
+como mostra a foto:
+
+<img src="/uploads/git3.png">
+
+em seguida click em " Begin import "
+<b>Pronto tema instalado </b>
+
+
+
+
