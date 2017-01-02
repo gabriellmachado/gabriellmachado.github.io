@@ -3,4 +3,7 @@ title: Teste
 date: 2017-01-02 02:46:00 Z
 ---
 
-Agora a postagem vai meu parsa
+> Agora a postagem vai meu parsa
+
+<b style="color:red;">Agora foi meu parsa</b>
+
