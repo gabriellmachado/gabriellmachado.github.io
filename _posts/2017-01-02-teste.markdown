@@ -4,8 +4,8 @@ date: 2017-01-02 02:46:00 Z
 layout: post
 ---
 
-<h1> Detonando ate mesmo Wordpress </h1>
-<h2>Criando um super site totalmente estatico com jekyll, e aprimorando com um cms </h2>
+<h3> Detonando ate mesmo Wordpress </h3>
+<h4>Criando um super site totalmente estatico com jekyll, e aprimorando com um cms </h4>
 <br>
 <p>Primeiro iremos criar um repositorio no github para hospdar nosso site, lembrando " o github pages so possibilita a hospedagem de sites estaticos ( vulgo: Html, Css, javascript ).</p>
 <br>
