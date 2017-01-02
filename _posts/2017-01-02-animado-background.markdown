@@ -6,7 +6,6 @@ layout: post
 
 <h4><b>Prepara o capacete que la vem mais pedrada</b></h4>
 <h4>Então vamos começar a animar</h4>
-<kbd>
 
  body {
    background: linear-gradient(270deg, #ecd078, #d95b43, #c02942, #542437, #53777a);
@@ -52,4 +51,3 @@ layout: post
    }
  }
 
-</kbd>
