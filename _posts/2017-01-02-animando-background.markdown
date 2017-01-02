@@ -39,11 +39,13 @@ layout: post
 <br>
 <br>
 <b>A magica ira acontecer nessa parte do codigo</b>
+<p> no lugar de  " cor " você colocara uma cor de sua Resultados da pesquisa
+preferência.
 <pre>
  
 
 body {
-   background: linear-gradient(270deg, umacor, outracor, outra, outra, quantas quiser);
+   background: linear-gradient(270deg, cor, cor, cor,);
    background-size: 1000% 1000%;
    -webkit-animation: AnimationName 30s ease infinite;
    -moz-animation: AnimationName 30s ease infinite;
