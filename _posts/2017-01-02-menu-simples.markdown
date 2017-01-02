@@ -8,8 +8,7 @@ date: 2017-01-02 19:42:00 Z
 <p>Primeiro abriremos e fechamos a tag <b>ul</b> como mostra o exemplo:</p>
 <center><img src="/uploads/menu1.png"></center>
 <br>
-<p>em seguida adicionaremos nossos itens com a tag <b>li</b>, 
-<li>Home</li>
-<li>Novidades</li>
-<li>Sobre</li>
+<p>em seguida adicionaremos nossos itens com a tag <b>li</b>, como mostra o exemplo.
+<center><img src="/uploads/menu2.png"></center>
+
 
