@@ -463,8 +463,9 @@ margin on the iframe, cause it breaks stuff. */
     display: table-cell;
     vertical-align: middle;
      background: url('http://gam.hol.es/blog/wp-content/uploads/2016/12/cropped-15776291_1395785537120460_1122912084_o-1.png') center;
-    height:600px;
+    height:100%;
     padding:5%;
+   position:absolute;
 }
 
 
