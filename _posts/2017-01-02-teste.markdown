@@ -4,7 +4,7 @@ date: 2017-01-02 02:46:00 Z
 layout: post
 ---
 
-<h3> Criando site estatico com Jekyll, e hospedando no Github pages</h3>
+<h4> Criando site estatico com Jekyll, e hospedando no Github pages</h4>
 <br>
 <b>#Etapa 1:</b>
 
