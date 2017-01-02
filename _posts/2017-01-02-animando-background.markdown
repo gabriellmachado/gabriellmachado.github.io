@@ -40,7 +40,7 @@ layout: post
 <center> <img src="/uploads/background1.png"></center>
 <br>
 <b>A magica ira acontecer nessa parte do codigo</b>
-<p> no lugar de  " cor " você colocara uma cor de sua Resultados da pesquisa
+no lugar de  " cor " você colocara uma cor de sua Resultados da pesquisa
 preferência.
 <pre>
  
