@@ -21,13 +21,15 @@ date: 2017-01-02 19:42:00 Z
 
 <center>#####code usado######</center>
 <p>
-ul{
-  background-color: rgba(22, 160, 133,1.0);
-  width: 100%;
-  height:50px;
-  border-bottom:3px solid rgba(26, 188, 156,1.0);
-  color: white;
-}
+<kbd>
+<p>ul{</p>
+  <p>background-color: rgba(22, 160, 133,1.0);</p>
+  <p>width: 100%;</p>
+  <p>height:50px;</p>
+  <p>border-bottom:3px solid rgba(26, 188, 156,1.0);</p>
+  <p>color: white;</p>
+<p>}</p>
+</kbd>
 </p>
 <center>#####################</center>
 <br>
