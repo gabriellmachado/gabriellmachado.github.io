@@ -9,7 +9,7 @@ layout: post
 <br>
 <p>Primeiro iremos criar um repositorio no github para hospdar nosso site, lembrando " o github pages so possibilita a hospedagem de sites estaticos ( vulgo: Html, Css, javascript ).</p>
 <br>
-<img src="uploads/git.png">
+<img src="/uploads/git.png">
 lembrando que onde esta escrito "Nomedeusuario" e pra por o nome do seu usuario ( não precisava nem lembrar ne... )
 se por o nome do usuario diferen ele não aceitara.
 <br>
