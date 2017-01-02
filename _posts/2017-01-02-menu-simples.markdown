@@ -1,6 +1,7 @@
 ---
 title: Menu simples
 date: 2017-01-02 19:42:00 Z
+layout: post
 ---
 
 <h4><b><i>Poem o capacete que la vem pedrada</i></b></h4>
