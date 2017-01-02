@@ -22,7 +22,7 @@ layout: post
 <center><img src="/uploads/git2.png"></center>
 <br>
 <p>Para adicionar o Jekyll iremos em <b> <i> import code</i></b></p>
-<p>aos que forem usar o mesmo tema usado no exemplo, copiem e colem o link:  https://github.com/rosario/kasper.git ;</p>
+<p>aos que forem usar o mesmo tema usado no exemplo, copiem e colem o link:<kbd>  https://github.com/rosario/kasper.git  ;</kbd></p>
 como mostra o exemplo a seguir:
 <br>
 <center><img src="/uploads/git3.png"></center>
