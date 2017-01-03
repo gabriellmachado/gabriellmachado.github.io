@@ -10,7 +10,7 @@ collections:
     output: true
 name: GAM
 description: Aprendizado sem firulas
-meta_description: Aprendizado sem firulas
+meta_description: Segura o capacete
 markdown: kramdown
 highlighter: pygments
 logo: false
